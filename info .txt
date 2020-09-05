@@ -2,7 +2,7 @@ this is line 1
 
 this is line 2
 
-this is modified line 3 dont this
+this is line 3 accept this
 
 this is line 4
 
@@ -10,7 +10,7 @@ this is modified 5 accept this
 
 this is line 6
 
-this is modified line 7 dont accept this
+this is line 7 accept this
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porttitor lacus eu mollis cursus. Suspendisse ex dolor, semper semper luctus eget, pretium sed lectus. Fusce tincidunt ligula at sapien pellentesque faucibus. Nunc bibendum quis turpis ut volutpat. Cras luctus, arcu vitae eleifend tempus, lacus libero eleifend quam, sit amet faucibus ipsum velit sed enim. Nam faucibus dapibus enim eu varius. Nunc tincidunt ut augue ac fringilla. Aliquam pharetra a arcu vitae porta.
 
