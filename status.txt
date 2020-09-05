@@ -6,3 +6,9 @@ Untracked files:
         addMe.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+On branch add-commit
+Your branch is ahead of 'origin/add-commit' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
